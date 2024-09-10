@@ -22,15 +22,15 @@ QuickBite is a convenient and efficient food  application designed to simplify y
 
 ## Demo
 
+<img width="1387" alt="Screenshot 2024-09-11 at 02 47 21" src="https://github.com/user-attachments/assets/c1c3d5a5-444f-4f7f-ba62-8c03eab41ad4">
 
+<img width="1365" alt="Screenshot 2024-09-11 at 02 47 43" src="https://github.com/user-attachments/assets/bbbc8383-1039-43f9-8049-ceaea7025972">
 
-<img width="1358" alt="Screenshot 2024-09-11 at 02 48 02" src="https://github.com/user-attachments/assets/931a64a4-c0f9-4e21-abc7-b476b367e1f4">
-<img width="1365" alt="Screenshot 2024-09-11 at 02 47 43" src="https://github.com/user-attachments/assets/d321beab-7aa0-4559-8f80-c0088e5d1c7f">
-<img width="1358" alt="Screenshot 2024-09-11 at 02 48 02" src="https://github.com/user-attachments/assets/8b74db10-8f83-4280-acf9-58b18262786a">
-<img width="1276" alt="Screenshot 2024-09-11 at 02 48 13" src="https://github.com/user-attachments/assets/443f9aef-3fb8-4138-9a50-4212b3c7965d">
-<img width="1238" alt="Screenshot 2024-09-11 at 02 48 30" src="https://github.com/user-attachments/assets/10d863e2-93fe-4c8c-9923-6b63385e2d4b">
+<img width="1358" alt="Screenshot 2024-09-11 at 02 48 02" src="https://github.com/user-attachments/assets/ae72f4c7-6454-4765-955e-ae1db05042d1">
 
+<img width="1276" alt="Screenshot 2024-09-11 at 02 48 13" src="https://github.com/user-attachments/assets/8dc488bd-054b-4e97-a79c-443ef1e46c0b">
 
+<img width="1238" alt="Screenshot 2024-09-11 at 02 48 30" src="https://github.com/user-attachments/assets/f41c0adb-aa22-46d8-b162-646221203a0f">
 
 ) 
 
