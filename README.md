@@ -1,6 +1,6 @@
 # QuickBite
 
-QuickBite is a convenient and efficient food ordering application designed to simplify your dining experience. Whether you're ordering for takeout, delivery, or dining in, QuickBite provides a seamless platform for browsing menus, placing orders, and managing your food preferences all in one place.
+QuickBite is a convenient and efficient food  application designed to simplify your dining experience, where users can submit, share, and review receipes. and managing your food preferences all in one place.
 
 ## Table of Contents
 
