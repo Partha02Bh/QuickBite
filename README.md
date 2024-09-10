@@ -98,16 +98,15 @@ Ensure you have the following installed:
 
 ## Configuration
 
-- **Database**: Make sure your MongoDB instance is running and correctly set in your `.env` file.
+- **Database**: Make sure your Sqlite3 instance is running and correctly set in your `.env` file.
 - **API Keys**: Add any required API keys (e.g., for payment processing) in your `.env` file.
 
 ## Technologies Used
 
 - **Frontend**: React, Redux, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JSON Web Tokens (JWT)
-- **Payments**: Integration with Stripe/PayPal (specify as applicable)
+- **Database**: Sqlite3
+
 
 ## Contributing
 
@@ -136,6 +135,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Partha02Bh - [LinkedIn](https://www.linkedin.com/in/partha02bh) - [Email](mailto:your-email@example.com)
+Partha02Bh - [LinkedIn](https://www.linkedin.com/in/parthasarathi-bhattacharya-0643b1213/) - [Email](mailto:your-email@example.com)
 
 Project Link: [https://github.com/Partha02Bh/QuickBite](https://github.com/Partha02Bh/QuickBite)
