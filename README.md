@@ -24,7 +24,12 @@ QuickBite is a convenient and efficient food  application designed to simplify y
 
 Check out a live demo of QuickBite [here](#). 
 
-![QuickBite Screenshot](#) 
+![Quick<img width="1365" alt="Screenshot 2024-09-11 at 02 47 43" src="h<img width="1358" alt="Screenshot 2024-09-11 at 02 48 02" src="https://github.com/user-attachments/assets/931a64a4-c0f9-4e21-abc7-b476b367e1f4">
+ttps://github.com/user-attachments/assets/653880bd-1451-47db-bde1-f72b0fd071b8">
+Bite Screenshot](#<img width="1387" alt="Screenshot 2024-09-11 at 02 47 21" src="https://github.com/user-<img width="1276" alt="Screenshot 2024-09-11 at 02 48 13" src="https://github.com/user-attachments/assets/a470ec32-afe8-4b0f-b2cc-898419b9b31b">
+attachments/assets/77abf71a-d4c7-47c0-9921-58ce278293f6">![Uploading Screenshot 2024-09-11 at 02.48.30.png…]()
+
+) 
 
 > *Note: Include a link to a hosted demo or a video walkthrough if available.*
 
