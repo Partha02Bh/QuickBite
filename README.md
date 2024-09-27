@@ -7,7 +7,6 @@ QuickBite is a convenient and efficient food  application designed to simplify y
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Configuration](#configuration)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
@@ -18,7 +17,6 @@ QuickBite is a convenient and efficient food  application designed to simplify y
 
 - **User-Friendly Interface**: Easy navigation and a clean UI for a smooth user experience.
 - **Menu Browsing**: Browse menus with a variety of cuisines.
-- **Multi-Platform**: Available on web and mobile devices for flexibility and convenience.
 
 ## Demo
 
@@ -89,17 +87,10 @@ Ensure you have the following installed:
 
     Open your browser and visit `http://localhost:5000`.
 
-## Usage
-
-1. **Browse Restaurants**: View a list of available restaurants near you.
-2. **View Menus**: Click on a restaurant to view its menu.
-3. **Place an Order**: Add items to your cart, customize your order, and proceed to checkout.
-4. **Track Your Order**: Receive updates on your order status from preparation to delivery.
 
 ## Configuration
 
 - **Database**: Make sure your Sqlite3 instance is running and correctly set in your `.env` file.
-- **API Keys**: Add any required API keys (e.g., for payment processing) in your `.env` file.
 
 ## Technologies Used
 
